@@ -12,7 +12,11 @@ body{
 	
 }
 
-
+img{
+	max-width:100%;
+	height:auto;
+	margin-top:6%;
+}
 #write{
 	padding: 5%;
 	margin: 0 auto;
@@ -115,7 +119,6 @@ body{
 	margin-left:25%;
 	float:left;
 	margin-top:20%;
-	margin-bottom:-5%;
 }
 
 img{
